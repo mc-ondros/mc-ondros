@@ -1,6 +1,8 @@
 <div align="center">
-  
-# 👋 Hey, I'm Andrei Pop (mc-ondros)
+
+# 👋 Hey, I'm Andrei Pop
+
+### 🎓 CS Student | 💼 Nokia Intern | 🚀 High-Performance C++ Developer
 
 [![GitHub followers](https://img.shields.io/github/followers/mc-ondros?style=social)](https://github.com/mc-ondros)
 [![Profile Views](https://komarev.com/ghpvc/?username=mc-ondros&color=blue&style=flat)](https://github.com/mc-ondros)
@@ -9,15 +11,55 @@
 
 ### 🚀 About Me
 
-I'm a developer passionate about building awesome things with code.
+```text
+🎓 Computer Science Student specializing in High-Performance Systems
+💼 Software Engineering Intern @ Nokia
+🏆 2nd Place UniHack Winner (DoodleParty - Real-time ML Moderation System)
+🦉 Co-Founder @ OwlTech (NightOwl Events App)
+👥 Vice Coordinator @ RoboTEC
+```
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Tech Stack
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++17](https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C++20](https://img.shields.io/badge/C++20-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frameworks & Technologies**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**DevOps & Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nix](https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+
+**Design**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+---
+
+### 🏆 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🎨 **DoodleParty** | Real-time ML moderation system with TensorFlow Lite on Raspberry Pi 4 | `Python` `TensorFlow Lite` `RPi4` |
+| 🦉 **NightOwl Events** | Mobile app for event discovery (OwlTech Startup) | `Flutter` `Dart` `Node.js` |
+| 🤖 **RoboTEC Projects** | Robotics and embedded systems development | `C++` `Embedded` |
 
 ---
 
@@ -27,14 +69,29 @@ I'm a developer passionate about building awesome things with code.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mc-ondros&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
----
-
-### 📫 Connect With Me
-
-Feel free to reach out and connect!
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mc-ondros&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 ---
 
-<sub>⭐ From [mc-ondros](https://github.com/mc-ondros)</sub>
+### 💡 What I'm Passionate About
+
+```text
+⚡ High-Performance Computing & Modern C++
+🔄 Real-Time Full-Stack Systems
+🤖 Machine Learning Deployment on Edge Devices
+📱 Cross-Platform Mobile Development
+👥 Team Leadership & Agile Methodologies
+```
+
+---
+
+### 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+<sub>⭐ From [mc-ondros](https://github.com/mc-ondros) with 💙</sub>
 
 </div>
