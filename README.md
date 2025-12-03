@@ -1,1 +1,40 @@
-<div align="center"><img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/49258832/121852037-4f9e6180-cce2-11eb-8c50-b0c6395b0586.gif" width="50" /><h1>Andrei Pop (mc-ondros)</h1><p>Building high-performance software and real-time ML systems.</p><p><a href="https://linkedin.com/in/andrei-pop-235ba1283/"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin"/></a><a href="mailto:pop.andrei@nightowlhub.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Contact-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail"/></a></p></div>💻 Tech Stack & ExpertiseI am a Computer Science student with a focus on engineering performant, robust solutions across both embedded (C++) and real-time web environments.CategoryKey TechnologiesHigh PerformanceC++ (C++17/20), STL, Algorithms, Concurrent ProgrammingReal-Time SystemsNode.js, Socket.io, Raspberry Pi 4 (Linux Deployment), NixMobile & Full StackDart, Flutter, Firebase (NoSQL, Cloud Functions), JavaScript/TypeScript, ReactMachine LearningTensorFlow Lite (Inference), Python, Data StructuresDevOps & ToolsGit, Docker, Linux/Bash, Jira, VS Code, CLionDesign & MediaFigma, Adobe Photoshop, DaVinci Resolve🔥 Featured Projects & Achievements🏆 DoodleParty (UniHack 2nd Place Winner)A collaborative, real-time drawing platform with integrated NSFW content moderation using ML.Real-Time Architecture: Architected the Node.js/Socket.io backend to handle concurrent drawing strokes with ultra-low latency.Embedded ML: Engineered the core services and deployment for operation on a Raspberry Pi 4, utilizing TensorFlow Lite for high-speed image classification.Leadership: Led a team of 3 developers, managing sprint planning and technical issue debugging.🦉 OwlTech Startup (Co-Founder)Co-founded a tech venture focused on digitizing local event management.NightOwl Events App: Designed and developed the full-stack cross-platform mobile application using Flutter and Firebase.System Integration: Handled custom REST API integrations for payment processing and managed the app deployment lifecycle (iOS/Android).🏛️ Leadership & Community InvolvementI am passionate about contributing to the wider tech community and leading technical initiatives.RoleOrganizationFocusVice Coordinator (Current)Liga AC (RoboTEC)Operational planning, resource management, and stakeholder relations for a major regional robotics competition.C++ Software Engineering InternNokiaContributed to high-performance C++ codebases in a professional Agile/CI/CD environment.Social Media Content EditorCODRU FestivalCreated high-engagement digital content (reels, posts) using Figma and DaVinci Resolve, driving brand presence.Regional 1st PlaceCyberSecurity OlympiadDemonstrated advanced proficiency in cryptography and secure programming practices.<div align="center"><img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/49258832/121852037-4f9e6180-cce2-11eb-8c50-b0c6395b0586.gif" width="50" /></div><!-- GitHub Stats Badges (Optional but recommended) --><!-- You can uncomment and replace mc-ondros with your username once set up: --><!--<div align="center"><h3>GitHub Activity</h3><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmc-ondros%26show_icons%3Dtrue%26theme%3Ddark%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="mc-ondros GitHub Stats" /><img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dmc-ondros%26theme%3Ddark" alt="mc-ondros GitHub Streak" /></div>-->
+<div align="center">
+  
+# 👋 Hey, I'm Andrei Pop (mc-ondros)
+
+[![GitHub followers](https://img.shields.io/github/followers/mc-ondros?style=social)](https://github.com/mc-ondros)
+[![Profile Views](https://komarev.com/ghpvc/?username=mc-ondros&color=blue&style=flat)](https://github.com/mc-ondros)
+
+---
+
+### 🚀 About Me
+
+I'm a developer passionate about building awesome things with code.
+
+---
+
+### 🛠️ Technologies & Tools
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+
+---
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=mc-ondros&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mc-ondros&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+---
+
+### 📫 Connect With Me
+
+Feel free to reach out and connect!
+
+---
+
+<sub>⭐ From [mc-ondros](https://github.com/mc-ondros)</sub>
+
+</div>
