@@ -4,11 +4,6 @@
 
 ### 🎓 CS Student | 💼 Nokia Intern | 🚀 High-Performance C++ Developer
 
-[![GitHub followers](https://img.shields.io/github/followers/mc-ondros?style=social)](https://github.com/mc-ondros)
-[![Profile Views](https://komarev.com/ghpvc/?username=mc-ondros&color=blue&style=flat)](https://github.com/mc-ondros)
-
----
-
 ### 🚀 About Me
 
 ```text
@@ -57,20 +52,9 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🎨 **DoodleParty** | Real-time ML moderation system with TensorFlow Lite on Raspberry Pi 4 | `Python` `TensorFlow Lite` `RPi4` |
-| 🦉 **NightOwl Events** | Mobile app for event discovery (OwlTech Startup) | `Flutter` `Dart` `Node.js` |
-| 🤖 **RoboTEC Projects** | Robotics and embedded systems development | `C++` `Embedded` |
-
----
-
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=mc-ondros&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mc-ondros&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mc-ondros&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
+| 🎨 **DoodleParty** | Real-time collaborative drawing canvas with ML moderation on Raspberry Pi 4 | `Python` `TensorFlow Lite` `RPi4` |
+| 🦉 **NightOwl Events** | Mobile app for event discovery (OwlTech Startup) | `Flutter` `Dart` `Firebase` |
+| 🦉 **NightOwl Events** | Mobile app for finding inclusive venues  | `Flutter` `Dart` `Firebase` |
 ---
 
 ### 💡 What I'm Passionate About
@@ -87,8 +71,8 @@
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrei-pop-235ba1283/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pop.andrei@nightowlhub.com)
 
 ---
 
